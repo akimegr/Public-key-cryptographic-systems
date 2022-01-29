@@ -1,0 +1,30 @@
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\bin\Debug\Lab4v2.exe.config
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\bin\Debug\Lab4v2.exe
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\bin\Debug\Lab4v2.pdb
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\TI4.csprojAssemblyReference.cache
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\Lab4v2.Form1.resources
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\Lab4v2.Properties.Resources.resources
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\TI4.csproj.GenerateResource.cache
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\TI4.csproj.CoreCompileInputs.cache
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\Lab4v2.exe
+C:\bedi with head\ТИ\Information-Theory-master\Lab4\obj\Debug\Lab4v2.pdb
+C:\bedi with head\ТИ\Information-Theory\Lab4\bin\Debug\Lab4v2.exe.config
+C:\bedi with head\ТИ\Information-Theory\Lab4\bin\Debug\Lab4v2.exe
+C:\bedi with head\ТИ\Information-Theory\Lab4\bin\Debug\Lab4v2.pdb
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\TI4.csprojAssemblyReference.cache
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\Lab4v2.Form1.resources
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\Lab4v2.Properties.Resources.resources
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\TI4.csproj.GenerateResource.cache
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\TI4.csproj.CoreCompileInputs.cache
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\Lab4v2.exe
+C:\bedi with head\ТИ\Information-Theory\Lab4\obj\Debug\Lab4v2.pdb
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\bin\Debug\Lab4v2.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\bin\Debug\Lab4v2.exe
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\bin\Debug\Lab4v2.pdb
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\TI4.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\Lab4v2.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\Lab4v2.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\TI4.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\TI4.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\Lab4v2.exe
+C:\Users\akime\OneDrive\Рабочий стол\Information-Theory\Lab4\obj\Debug\Lab4v2.pdb
